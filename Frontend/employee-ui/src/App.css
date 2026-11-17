@@ -1,0 +1,30 @@
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+
+.modal-bg {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.card-header {
+    padding: 18px;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+}
+
+.modal-content {
+    border-radius: 10px;
+}
+
+button {
+    min-width: 70px;
+}
